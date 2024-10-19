@@ -1,0 +1,19 @@
+{
+    "name": "eldeeno/php-wc-tool",
+    "description": "A PHP version of the Unix command line tool wc (word count).",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Eldeeno\\PhpWcTool\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shamsuddeen Abdulkadir",
+            "email": "ibnabdulkadirb@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/console": "^7.1"
+    }
+}
