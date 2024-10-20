@@ -1,4 +1,4 @@
-# PHP Coding Challenge: Build Your Own Version of `wc`
+# Coding Challenge: Build Your Own Version of `wc`
 
 This challenge is to build a PHP version of the Unix command line tool `wc` (word count). The goal is to replicate the functionality of `wc`, which counts lines, words, and bytes in text input from files or streams.
 
